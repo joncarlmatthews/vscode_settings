@@ -1,0 +1,10 @@
+{
+    "window.zoomLevel": 1,
+    "editor.minimap.enabled": false,
+    "javascript.preferGoToSourceDefinition": true,
+    "typescript.preferGoToSourceDefinition": true,
+    "security.allowedUNCHosts": [
+        "wsl.localhost"
+    ],
+    "workbench.colorTheme": "Tomorrow Night Blue"
+}
