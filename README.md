@@ -2,4 +2,4 @@
 
 Put these files in:
 
-`C:\Users\<username>\AppData\Roaming\Code\User`
+`C:\Users\<username>\AppData\Roaming\Code\User\`
