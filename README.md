@@ -1,4 +1,4 @@
-# vscode_settings
+# My VSCode Preferences
 
 Put these files in:
 
