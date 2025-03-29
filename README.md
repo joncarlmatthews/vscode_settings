@@ -1,4 +1,12 @@
-# My VSCode Preferences
+# My Cursor/VS Code Preferences
+
+## MacOS:
+
+`settings.json`
+
+Cursor > Settings > VS Code Settings > Open Settings (JSON)
+
+## Windwows:
 
 Put these files in:
 
