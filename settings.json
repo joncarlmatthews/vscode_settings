@@ -1,10 +1,33 @@
 {
+    "window.commandCenter": 1,
     "window.zoomLevel": -0.2,
     "editor.minimap.enabled": false,
     "javascript.preferGoToSourceDefinition": true,
     "typescript.preferGoToSourceDefinition": true,
-    "security.allowedUNCHosts": [
-        "wsl.localhost"
-    ],
-    "workbench.colorTheme": "Tomorrow Night Blue"
+    "workbench.sideBar.location": "right",
+    "editor.suggestOnTrigger": false,
+    "editor.quickSuggestions": {
+        "other": false,
+        "comments": false,
+        "strings": false
+    },
+    "window.autoDetectColorScheme": true,
+    "workbench.preferredLightColorTheme": "Visual Studio Light",
+    "git.openRepositoryInParentFolders": "always",
+    "files.eol": "\n",
+    "[javascript][javascriptreact][typescript][typescriptreact][html][css][scss][json]": {
+      "editor.formatOnSave": true,
+      "editor.formatOnPaste": true,
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
+      "editor.tabSize": 2,
+      "editor.insertSpaces": true
+    },
+    "[yaml]": {
+      "editor.formatOnSave": true,
+      "editor.formatOnPaste": true,
+      "editor.autoIndent": "advanced",
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
+      "editor.tabSize": 2,
+      "editor.insertSpaces": true
+    }
 }
