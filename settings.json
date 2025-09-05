@@ -5,6 +5,7 @@
     "javascript.preferGoToSourceDefinition": true,
     "typescript.preferGoToSourceDefinition": true,
     "workbench.sideBar.location": "right",
+    "workbench.activityBar.location": "top",
     "editor.suggestOnTrigger": false,
     "editor.quickSuggestions": {
         "other": false,
@@ -31,3 +32,4 @@
       "editor.insertSpaces": true
     }
 }
+
